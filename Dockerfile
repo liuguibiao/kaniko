@@ -1,1 +1,1 @@
-FROM docker.io/library/bitnami/kaniko:1.19.2
+FROM gcr.io/kaniko-project/executor:1.19.2
